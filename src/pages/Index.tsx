@@ -123,7 +123,7 @@ export default function Index() {
             <div className="w-9 h-9 rounded-xl bg-[#0e7cc4] flex items-center justify-center">
               <Icon name="Wind" size={18} className="text-white" />
             </div>
-            <span className="font-bold text-[#0e7cc4] text-lg tracking-tight">АэроЧист</span>
+            <span className="font-bold text-[#0e7cc4] text-lg tracking-tight">Технологии Чистого Воздуха</span>
           </div>
 
           {/* Desktop nav */}
@@ -496,10 +496,10 @@ export default function Index() {
             <div className="w-8 h-8 rounded-lg bg-white/10 flex items-center justify-center">
               <Icon name="Wind" size={16} className="text-white" />
             </div>
-            <span className="font-bold text-white">АэроЧист</span>
+            <span className="font-bold text-white">Технологии Чистого Воздуха</span>
           </div>
           <p className="text-blue-300 text-sm">Профессиональная чистка вентиляции</p>
-          <p className="text-blue-400 text-sm">© 2024 АэроЧист. Все права защищены</p>
+          <p className="text-blue-400 text-sm">© 2024 Технологии Чистого Воздуха. Все права защищены</p>
         </div>
       </footer>
     </div>
