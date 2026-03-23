@@ -180,7 +180,7 @@ export default function Index() {
           className="absolute inset-0 bg-cover bg-center"
           style={{ backgroundImage: `url(${heroImage})` }}
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-[#0a5a9c]/85 via-[#0e7cc4]/60 to-transparent" />
+        <div className="absolute inset-0 bg-gradient-to-r from-[#0a5a9c]/55 via-[#0e7cc4]/25 to-transparent" />
 
         {/* Decorative circles */}
         <div className="absolute top-20 right-20 w-72 h-72 bg-white/5 rounded-full blur-3xl" />
